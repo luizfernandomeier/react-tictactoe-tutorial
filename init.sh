@@ -5,6 +5,7 @@ cd tictactoe
 npm start
 
 npm install @material-ui/core
+npm install @mui/material
 
 # install Babel JavaScript VSCode extension
 # install React Developer Tools Chrome extension
