@@ -28,5 +28,6 @@ npm install @mui/material
 # https://mui.com/components/app-bar/#heading-basic-app-bar
 
 npm install @material-ui/icons
+npm install @mui/icons-material
 
 # https://mui.com/components/drawers/#clipped-under-the-app-bar
