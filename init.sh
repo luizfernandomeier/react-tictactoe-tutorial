@@ -34,3 +34,4 @@ npm install @mui/icons-material
 
 npm install @emotion/react
 npm install @emotion/styled
+npm install @mui/styles
