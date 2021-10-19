@@ -31,3 +31,5 @@ npm install @material-ui/icons
 npm install @mui/icons-material
 
 # https://mui.com/components/drawers/#clipped-under-the-app-bar
+
+npm install @emotion/react
