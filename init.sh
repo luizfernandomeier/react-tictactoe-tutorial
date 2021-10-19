@@ -35,3 +35,5 @@ npm install @mui/icons-material
 npm install @emotion/react
 npm install @emotion/styled
 npm install @mui/styles
+
+# https://mui.com/guides/migration-v4/#themeprovider-setup
